@@ -13,6 +13,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iaguin11&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=iaguin11&icon=9&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
