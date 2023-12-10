@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Bem - Vindo ao meu Mundo :<br><br>Sou um grande amante da tecnologia, sempre adquirindo novos conhecimentos e<br>habilidades, atualmente estou cursando ADS, e estudando na OneBitCode . 
+🔭 Bem - Vindo ao meu Mundo :<br><br> Olá, me chamo Iago Novaes, Atualmente estou focado em aprimorar minhas habilidaes no desenvolvimento front-end. Acredito que minha capacidade de colaborar efetivamente em grupo, juntamente com minha vontade de aprender e me manter atualizado no mundo do desenvolvimento. Estou sempre em busca de novas oportunidades, para aprimorar meus conhecimentos, estou confiante de que posso fazer uma contribuição significativa.
 
 
 ## 🌐 Socials:
